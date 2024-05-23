@@ -1,2 +1,2 @@
-# gustat-bakery
+# Gustat
 Landing page for a bakery.
